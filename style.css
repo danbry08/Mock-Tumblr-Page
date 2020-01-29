@@ -1,0 +1,67 @@
+body {
+  margin: 80px 300px;
+  font-family: "Bebas Neue", cursive;
+  background-color: white;
+  text-align: center;
+  font-size: 18px;
+}
+h2 {
+  color: gray;
+}
+
+.button {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+  border: gray 1px solid;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+/* <img {
+  border: #000000 1.5px solid;
+  padding: 50px; */
+/* } */
+
+section {
+  margin-top: 15px;
+  padding: 10px 15px;
+  border: black 1px solid;
+  border-width: 3px;
+  justify-content: center;
+  flex: 1;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.headerflex {
+  display: flex;
+}
+
+.icon {
+  font-size: 30px;
+  padding-left: 110px;
+}
+
+.username {
+  padding-left: 20px;
+}
+
+.sourceusername {
+  display: flex;
+  padding-left: 110px;
+}
+
+.source {
+  display: flex;
+  padding-left: 110px;
+}
+
+.heart {
+  padding-right: 110px;
+}
